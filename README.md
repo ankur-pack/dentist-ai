@@ -1,1 +1,1 @@
-dentist-ai-chatbot
+dentist-ai.github.io
